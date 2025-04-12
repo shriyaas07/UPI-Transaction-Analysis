@@ -71,7 +71,7 @@ This Power BI dashboard analyzes **UPI (Unified Payments Interface)** transactio
 I’m **Shriya Srivastava**, an MBA Business Analytics student with a growing passion for **financial analytics** and **interactive dashboards**.
 
 📌 I'm currently building my profile through real-world dashboard projects.  
-📧 Let's connect: [LinkedIn – Shriya](www.linkedin.com/in/shriyaa-srivastav-a34b50201)
+📧 Let's connect: [LinkedIn-(www.linkedin.com/in/shriyaa-srivastav-a34b50201)]
 
 ---
 
